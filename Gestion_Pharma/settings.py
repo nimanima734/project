@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-q)=2&4el&fnd!ju_r4uf-t8xz)8r4r$cg$2$t2g2q8yx206c%4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dawapharma-i19w.onrender']
 
 
 # Application definition
